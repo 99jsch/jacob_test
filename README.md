@@ -1,4 +1,4 @@
-# jacob_test
+# this is a coup now zephyr_test
 Test repo for git/github lesson, NCEAS coreR 
 
 # Purpose
