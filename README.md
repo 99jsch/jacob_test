@@ -1,4 +1,4 @@
-# jacob_test
+# Jacob Test
 Test repo for git/github lesson, NCEAS coreR 
 
 # Purpose
