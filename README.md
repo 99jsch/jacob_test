@@ -1,5 +1,4 @@
-# Jacob Test
-Test repo for git/github lesson, NCEAS coreR 
+# this is a coup now zephyr_test
 
 # Purpose
 - Create a remote repo on GitHub.
